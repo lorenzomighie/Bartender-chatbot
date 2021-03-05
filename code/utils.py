@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  8 13:23:03 2019
-@author: lorenzo
-"""
-
 
 def text2int(textnum, numwords={}):
     if not numwords:
