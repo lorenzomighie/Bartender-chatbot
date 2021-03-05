@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  7 11:51:16 2019
-@author: lorenzo & emilian
-"""
-
 import random
-
 from bar import Drink
 from utils import text2int, join_with_and, debug
 import datetime
