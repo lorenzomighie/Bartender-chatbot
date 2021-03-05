@@ -1,5 +1,4 @@
 import json
-
 import spacy
 import os
 import subprocess
@@ -142,5 +141,3 @@ if __name__ == '__main__':
     ex = Application()
     sys.exit(app.exec_())
     # debug_compound()
-
-# # git add / git commit / git push e pull
