@@ -4,7 +4,7 @@ A toy vocal assistent, which can receive orders, advice some products, delete an
 
 Such a chatbot makes use of:
    - automated speech recognition;
-   - dependency parsin and answer elaboration;
+   - dependency parsing and answer elaboration;
    - text to speech.
 
 For a detailed explaination on the strategy we used to make it work take a look at ```bartender.pdf```.
