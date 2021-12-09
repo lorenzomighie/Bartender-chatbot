@@ -7,7 +7,7 @@ Such a chatbot makes use of:
    - dependency parsing and answer elaboration;
    - text to speech.
 
-For a detailed explaination on the strategy we used to make it work take a look at ```bartender.pdf```.
+For a detailed explaination on how it works take a look at ```bartender.pdf```.
 
 
 # Requirements
